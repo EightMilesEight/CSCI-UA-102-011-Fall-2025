@@ -17,58 +17,58 @@ Download Eclipse. Java Review.
 
 In textbook: code fragments 2.2, 2.3, 2.4. Qs 2.10, 11, 12, 13, 17, 21, 24, 29
 
-### Class 2, Sept 10
+### Class 2, Sept 8
 
 Finish Java review -- casting, dynamic binding, abstract classes and interfaces.
 List ADT and started ArrayList implementation.
 
 Reading: Chapter 2.3, 2.5, Chapter 7.1.
 
-### Class 3, Sept 12
+### Class 3, Sept 10
 
 Finish ArrayList implementation. Limitations of ArrayList. Start LinkedList.
 
 Reading: First part of Chapter 7.2, Chapter 3.2.
 
-### Section 2, Sept 14
+### Section 2, Sept 12
 
 LinkedList practice.
 
 In textbook: code fragments 3.19. Qs 3.5, 6, 9, 12, 17, 18, 25, 28
 
-### Class 4, Sept 17
+### Class 4, Sept 15
 
 Doubly Linked Lists.
 
 Reading: Chapter 3.2, 3.4.
 
-### Class 5, Sept 19
+### Class 5, Sept 17
 
 Position lists. 
 
 Reading: Chapter 7.3, 4.1-4.3, 5.1.3
 
-### Section 3, Sept 21
+### Section 3, Sept 19
 #### Quiz 1 (Doubly linked lists and Position lists)
 
 Doubly Linked Lists and position lists
 
 In textbook: Qs 3.8, 11, 16, 26, 31, 32 (look at the cartoons in section 3.3), 35. 7.11-14, 36-40, 42, 43, 46, 47
 
-### Class 6, Sept 24
+### Class 6, Sept 22
 #### Assignment 1 (Dynamic arrays)  due
 
 Algorithmic complexity.
 
 Reading: Chapter 4.1-4.3,
 
-### Class 7, Sept 26
+### Class 7, Sept 24
 
 Stacks and Queues
 
 Reading: Chapter 6 up to and including 6.2.3, but not including 6.2.2.
 
-### Section 4, Sept 28
+### Section 4, Sept 26
 #### Quiz 2 (Stacks and queues and complexity)
 
 Stacks, queues, and algorithmic complexity
