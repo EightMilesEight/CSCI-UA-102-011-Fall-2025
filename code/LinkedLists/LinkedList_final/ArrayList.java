@@ -2,12 +2,16 @@ package LinkedList_final;
 
 public class ArrayList<E> implements List<E>{
 	public static int MAX_SIZE = 1000;
-	E array[];
+	E[] array;
 	int size;
 	
 	public ArrayList(){
-		array = (E[ ]) new Object[MAX_SIZE];
+		array = (E[]) new Object[MAX_SIZE];
 	}
+
+    public ArrayList(int capacity){
+        array = (E[]) new Object[capacity];
+    }
 	
 	public int size() { return size; }
 	public E getAtIndex(int index) {
