@@ -1,0 +1,25 @@
+Answer the following questions and submit them in a separate file:
+
+
+
+• What is the benefit of DynamicList over DoublyLinkedList?
+
+DynamicList has the ability to retrieve and return elements from a given index using getAtIndex().
+
+
+• What is the asymptotic complexity of increaseArraySize with respect to the parameter new size?
+
+The asymptotic complexity of increaseArraySize is dependent on the current size of the array, because Arrays.copyOf has a complexity of O(n), where n is the number of elements in the original array, while the new_size is just a number that is set and doesn't require any computations for the slots in the array that aren't populated by elements.
+
+
+• If instead of doubling the size of the list when size==capacity, we instead increased the size by 1 by calling increaseArraySize(size+1), what is the complexity of the method addLast when the array is full? In this case, what is the complexity of adding N elements to the end of the list?
+
+addLast would have a complexity of O(n), and adding N elements to the end of the list would have a time complexity of O((n*N)+(((N^2)+N)/2)) where n is the number of elements in the list before the N elements are added.
+
+
+• (Bonus) If N is a large power of 2, N = 2^M then what is the complexity of adding N elements
+to the end of an array in the code we have written? Can we make the asymptotic complexity of
+our code better by incrementing the size of array in larger steps, say by multiplying capacity
+by 4 instead of 2?
+
+Adding N elements to the end of the list would have a time complexity of O((n*M)+((2^((log_2(N))+1))-1)) where n is the number of elements in the list before the N elements are added. We can lower the asymptotic complexity by incrementing the size of array in larger steps, as this would reduce the number of times that increaseArraySize would need to be called.
