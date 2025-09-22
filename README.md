@@ -74,3 +74,9 @@ Reading: Chapter 6 up to and including 6.2.3, but not including 6.2.2.
 Stacks, queues, and algorithmic complexity
 
 In textbook: Qs 4.2, 3, 6, 8-19, 22-24, 29-32, 45, 54, 56; 6.1, 3-5, 7, 9, 17, 19, 21, 23, 24.
+
+### Class 8, Sept 29
+#### Assignment 2 (Iterators and Priority Queues) due
+
+Recursion
+Reading: Chapter 5.1-4
