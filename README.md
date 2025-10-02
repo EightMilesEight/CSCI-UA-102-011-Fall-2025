@@ -99,7 +99,7 @@ In textbook: Qs 5.1, 2, 7, 8, 11, 15-22, 24.
 
 ### Class 10, Oct 6
 
-#### Assignment 3 (Recurssion) due
+#### Assignment 3 (Recursion) due
 
 Searching, positions(), and intro to Binary trees.
 
@@ -117,3 +117,52 @@ Reading: 8.2, 8.4, 10.1
 Recursion and trees
 
 In textbook: 8.5, 11, 12, 13, 18, 19, 20, 22, 23, 27, 42, 45, 58.
+
+### Class 12, Oct 13
+
+#### Assignment 4 (Trees) due
+
+Map ADT, Unsorted list implementation.
+
+Reading: Chapter 10.1.
+
+### Class 13, Oct 15
+
+Hash functions and hashmaps.
+
+Reading: 10.2, 11.1
+
+### Section 7, Oct 17
+
+#### Quiz 5 (Maps)
+
+Maps and hash maps. 
+
+In textbook: Qs 10.1, 3, 33, 61. Read about the set ADT (10.5.1) 10.25, 26, 27, 28
+
+### Class 14, Oct 20
+
+#### Midterm (two-sided cheat sheet allowed)
+
+### Class 15, Oct 22
+
+Finish Hash map implementations. Fast implementation of entrySet. Start collision resolution.
+
+Reading: 10.2
+
+### Section 8, Oct 24
+
+#### Quiz 6 (Maps and hash functions)
+
+Maps and hash maps. 
+
+In textbook: Qs 10.4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 29, 41
+
+### Class 16, Oct 27
+
+#### Assignment 5 (Maps) due
+
+Finish collision resolution. Binary search trees.
+
+In textbook: 11.1
+
